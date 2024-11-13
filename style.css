@@ -5,3 +5,11 @@ h1 {
     width: 800px;
     padding: 10px;
 }
+
+.Input-text{
+    background-color: aqua;
+}
+
+.Input-date{
+    background-color: green;
+}
