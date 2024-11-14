@@ -9,6 +9,7 @@ h1 {
 body{
     padding: 10px 10px 10px 10px;
     background-color: rgb(48, 47, 47);
+    color: white;
 }
 
 a:link,
@@ -43,14 +44,8 @@ a:active {
 
 .Code-Object{
     font-weight: bold;
-    background-color: white;
 }
 
 .Code-Text{
     font-style: italic;
-    background-color: white;
-}
-
-.Code-Example{
-    background-color: white;
 }
