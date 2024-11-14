@@ -6,6 +6,10 @@ h1 {
     padding: 10px;
 }
 
+body{
+    padding: 10px 10px 10px 10px;
+}
+
 .Input-text{
     background-color: aqua;
     font-size: 20px;
@@ -17,4 +21,18 @@ h1 {
 .Input-date{
     background-color: green;
     width: 150px;
+}
+
+.Code-Object{
+    font-weight: bold;
+    background-color: white;
+}
+
+.Code-Text{
+    font-style: italic;
+    background-color: white;
+}
+
+.Code-Example{
+    background-color: white;
 }
