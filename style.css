@@ -30,16 +30,35 @@ a:active {
 }
 
 .Input-text{
-    background-color: aqua;
+    background-color: rgb(13, 202, 236);
     font-size: 20px;
     font-weight: bolder;
     width: 300px;
     color: red;
 }
 
+.Linear-gradiant{
+    background: linear-gradient(to right, #241942, #7264c0);
+    width: 300px;
+    text-align: center;
+}
+
 .Input-date{
     background-color: green;
     width: 150px;
+}
+
+.Img-border{
+    margin: 0 10px 0 10px;
+    border-radius: 100px 0 100px 0;
+}
+
+.Div-center{
+    border: solid 3px red;
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    margin: 20px;
 }
 
 .Code-Object{
